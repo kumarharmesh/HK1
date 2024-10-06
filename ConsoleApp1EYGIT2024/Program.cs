@@ -22,6 +22,7 @@
             Console.WriteLine("######################################");
 
             Console.WriteLine("AAAAAAAAAAAAAAAAAAAAAAA");
+            Console.WriteLine(DateTime.Now);
         }
     }
 }

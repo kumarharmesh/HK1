@@ -30,7 +30,11 @@
 
             
               Console.WriteLine("++++++++++++++++++++++++++++++++++++++++++");
+
+            Console.WriteLine("Less priority work stash it");
+
             Console.WriteLine("High priority line");
+            Console.WriteLine("stash1");
             Console.WriteLine("do work");
         }
     }

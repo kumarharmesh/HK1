@@ -36,6 +36,7 @@
             Console.WriteLine("High priority line");
             Console.WriteLine("stash1");
             Console.WriteLine("do work");
+            Console.WriteLine("now stashing");
         }
     }
 }

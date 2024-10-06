@@ -38,6 +38,7 @@
             Console.WriteLine("do work");
             Console.WriteLine("now stashing");
             Console.WriteLine("HELLO. I AM DEV BRANCH");
+            Console.WriteLine("$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$");
         }
     }
 }

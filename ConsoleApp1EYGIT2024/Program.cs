@@ -30,6 +30,7 @@
 
             
               Console.WriteLine("++++++++++++++++++++++++++++++++++++++++++");
+            Console.WriteLine("High priority line");
         }
     }
 }

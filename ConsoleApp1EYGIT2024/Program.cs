@@ -19,6 +19,7 @@
             Console.WriteLine("Local3");
              Console.WriteLine("-----------------------------------");
              Console.WriteLine(DateTime.Now);
+            Console.WriteLine("######################################");
         }
     }
 }

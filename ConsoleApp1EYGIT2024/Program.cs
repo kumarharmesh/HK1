@@ -9,6 +9,10 @@
             Console.WriteLine("3rd");
             Console.WriteLine("4th");
             Console.WriteLine("5th");
+            Console.WriteLine("-----------------------------------");
+            Console.WriteLine("Remote1");
+            Console.WriteLine("Remote2");
+            Console.WriteLine("Remote3");
         }
     }
 }

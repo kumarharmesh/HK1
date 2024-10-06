@@ -17,6 +17,8 @@
             Console.WriteLine("Local1");
             Console.WriteLine("Local2");
             Console.WriteLine("Local3");
+             Console.WriteLine("-----------------------------------");
+             Console.WriteLine(DateTime.Now);
         }
     }
 }

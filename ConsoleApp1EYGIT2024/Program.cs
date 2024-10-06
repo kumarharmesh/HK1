@@ -5,6 +5,10 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("2nd");
+            Console.WriteLine("3rd");
+            Console.WriteLine("4th");
+            Console.WriteLine("5th");
         }
     }
 }

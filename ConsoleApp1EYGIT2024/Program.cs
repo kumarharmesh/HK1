@@ -10,6 +10,10 @@
             Console.WriteLine("4th");
             Console.WriteLine("5th");
             Console.WriteLine("-----------------------------------");
+            Console.WriteLine("Remote1");
+            Console.WriteLine("Remote2");
+            Console.WriteLine("Remote3");
+            Console.WriteLine("-----------------------------------");
             Console.WriteLine("Local1");
             Console.WriteLine("Local2");
             Console.WriteLine("Local3");
